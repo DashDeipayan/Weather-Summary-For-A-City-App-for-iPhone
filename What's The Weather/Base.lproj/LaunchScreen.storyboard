@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="atmosphere-cloudiness-clouds-844297" translatesAutoresizingMaskIntoConstraints="NO" id="QKZ-f8-Do0">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="launch" translatesAutoresizingMaskIntoConstraints="NO" id="QKZ-f8-Do0">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icon2" translatesAutoresizingMaskIntoConstraints="NO" id="L4I-Oz-vXc">
@@ -60,7 +60,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="atmosphere-cloudiness-clouds-844297" width="1000" height="667"/>
         <image name="icon2" width="180" height="180"/>
+        <image name="launch" width="1000" height="667"/>
     </resources>
 </document>

@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="sid-verma-396977-unsplash" translatesAutoresizingMaskIntoConstraints="NO" id="CBh-Lg-GE1">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="main-screen" translatesAutoresizingMaskIntoConstraints="NO" id="CBh-Lg-GE1">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -101,6 +101,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="sid-verma-396977-unsplash" width="1000" height="562"/>
+        <image name="main-screen" width="1000" height="562"/>
     </resources>
 </document>
