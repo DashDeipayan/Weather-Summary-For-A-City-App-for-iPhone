@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "E.g. Kolkata, London,etc"; ObjectID = "BGP-oZ-44D"; */
+"BGP-oZ-44D.placeholder" = "E.g. Kolkata, London,etc";
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "Olh-5a-Vxu"; */
+"Olh-5a-Vxu.normalTitle" = "SEARCH";
+
+/* Class = "UILabel"; text = "What's The Weather"; ObjectID = "dxv-N3-onc"; */
+"dxv-N3-onc.text" = "What's The Weather";
+
+/* Class = "UILabel"; text = "Enter City Name"; ObjectID = "sSv-7F-UDj"; */
+"sSv-7F-UDj.text" = "Enter City Name";
